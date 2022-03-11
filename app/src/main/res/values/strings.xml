@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LIBRI-DS3T</string>
+    <string name="cadastroUsuarioTitulo">CADASTRO DE USUÁRIOS</string>
+    <string name="txtNome">NOME</string>
+    <string name="txtSobreNome">SOBRENOME</string>
+    <string name="txtEmail">E-MAIL</string>
+    <string name="txtLogin">LOGIN</string>
+    <string name="txtSenha">SENHA</string>
+    <string name="cadastrarUsuario">CADASTRAR</string>
+    <string name="titulo_cadastro_usuario">CADASTRO DE USUÁRIO</string>
+    <string name="mensagem_cadastro_usuario">VOCÊ ESTÁ SE CADASTRANDO NO APP LIBRI.</string>
+    <string name="cadUsuario">CADASTRAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="cadastro_ok">CADASTRO EFETUADO COM SUCESSO!</string>
+    <string name="cadastro_erro">ERRO AO CADASTRAR!</string>
+    <string name="cadastroLivroTitulo">CADASTRO DE LIVRO</string>
+    <string name="txtTitulo">TÍTULO</string>
+    <string name="txtDescricao">DESCRIÇÃO</string>
+    <string name="txtFoto">FOTO</string>
+    <string name="titulo_cadastro_livro">CADASTRO DE LIVROS</string>
+    <string name="mensagem_cadastro_livro">VOCE ESTÁ CADASTRANDO UM LIVRO NO APP LIBRI</string>
+    <string name="txtUsuario">USUÁRIO</string>
+    <string name="entrarLogin">ENTRAR</string>
+    <string name="cadastrarLogin">CADASTRE-SE</string>
+</resources>
